@@ -18,6 +18,7 @@ class WhyQuestionsScreen extends StatelessWidget {
       'Why there?',
       'Why sad?',
       'Why happy?',
+
       'Why angry?',
       'Why tired?',
       'Why hungry?',
